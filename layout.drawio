@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="GQ6FkOFKC6jAtyAOPkZ9" name="Page-1">
+        <mxGraphModel dx="1639" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#006600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" value="Inicio" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="50" width="290" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="18" vertex="1">
+                    <mxGeometry x="40" y="67" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Senha Master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="18" vertex="1">
+                    <mxGeometry x="31" y="40" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="18" vertex="1">
+                    <mxGeometry x="40" y="110" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Gerador e Armazenador de senhas" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="-200" y="50" width="370" height="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="-3" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="10" y="56" width="340" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="10" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="6" y="220" width="134" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Senha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="197.5" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="200" y="220" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="325" y="220" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="10" y="265" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="95" y="266" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="280" y="268" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Salvar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="18" y="265" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="190" y="268" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Deletar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="102" y="268" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Lista das senhas cadastradas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="5" y="312" width="185" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="12" y="339" width="340" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="145" y="220" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Descrição" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="10" y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="24" vertex="1">
+                    <mxGeometry x="10" y="130" width="340" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Gerar Senha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="187.5" y="268" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Fechar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="24" vertex="1">
+                    <mxGeometry x="279" y="269" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;h1&gt;Criptografia Fernet&lt;/h1&gt;&lt;p&gt;Fernet é uma implementação de criptografia autenticada simétrica, também conhecida como &quot;chave secreta&quot;.&lt;/p&gt;&lt;p&gt;Criptografia simétrica é quando uma chave é usada para criptografar e descriptografar uma mensagem, para que quem quer que seja criptografado possa descriptografá-la.&lt;/p&gt;&lt;p&gt;&lt;span&gt;A única maneira de descriptografar a mensagem é saber o que foi usado para criptografá-la, ou seja, como se precisasse de uma senha, uma chave.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="220" width="300" height="250" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
