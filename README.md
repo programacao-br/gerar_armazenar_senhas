@@ -19,4 +19,5 @@ Objetivo de aprendizagem:
 2- Entendendo o funcionamento de strings em bytes, encode/decode
 3- Usando criptografia com metodo Fernet em conjunto com senhas.
 4- Entendendo a forma de copiar a [usuario] e [senha] para a area de transferencia.
+
 ![layout](https://user-images.githubusercontent.com/114777198/193620792-5157da06-50fd-49da-82ad-2ac2f88a2a66.png)
